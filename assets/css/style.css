@@ -1,6 +1,7 @@
 .bg_returnal {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
+    background-position: center center;
 }
 
 .rounded_custom {
@@ -10,6 +11,7 @@
 .bg_it_takes_two {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
+    background-position: center center;
 }
 
 .outline_offset {
