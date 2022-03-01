@@ -1,3 +1,8 @@
 .bg_returnal {
     background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+}
+
+.rounded_custom {
+    border-radius: 20px;
 }
