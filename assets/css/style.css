@@ -11,3 +11,8 @@
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
 }
+
+.outline_offset {
+    outline: 4px solid #007bff;
+    outline-offset: 2px;
+}
