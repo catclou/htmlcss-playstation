@@ -6,3 +6,8 @@
 .rounded_custom {
     border-radius: 20px;
 }
+
+.bg_it_takes_two {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+}
