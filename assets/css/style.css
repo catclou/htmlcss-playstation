@@ -14,7 +14,7 @@
     background-position: center center;
 }
 
-.outline_offset {
+#preview_hover:hover {
     outline: 4px solid #007bff;
     outline-offset: 2px;
 }
@@ -29,4 +29,18 @@
 
 .bg_footer {
     background-color: #00439c;
+}
+
+.card {
+    border:0!important;
+}
+
+#card_opacity_hover {
+    opacity: 0.5;
+    border: 0;
+}
+
+#card_opacity_hover:hover {
+    border-bottom: 1px solid #00439c!important;
+    opacity: 1.0;
 }
