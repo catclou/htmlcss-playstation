@@ -44,3 +44,7 @@
     border-bottom: 1px solid #00439c!important;
     opacity: 1.0;
 }
+
+#accedi_btn_hover:hover {
+    box-shadow: 1px 1px 15px black;
+}
